@@ -54,7 +54,7 @@ qa_system_prompt = """You are an indonesian assistant for question-answering abo
 Use the following pieces of retrieved context to answer the question. \
 If you don't know the answer, just say Informasi belum tersedia. \
 if you want make table use |. \
-and answer only from the context. \
+and answer only from the context an using bahasa indonesia. \
 
 {context}"""
 
