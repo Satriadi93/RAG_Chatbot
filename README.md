@@ -12,6 +12,6 @@ Pada projek ini, menggunakan beberapa library yaitu:
 <li>Ollama
 
 untuk menjalankan projek menggunaka framework steamlit sebagai antarmuka
-<code> Streamlit run Chatbot.py
+<code> Streamlit run Chatbot.py </code>
 
 untuk mengganti pengetahuan chatbot dapat di lakukan di halaman knowlage setelah projek di jalankan
